@@ -53,7 +53,7 @@ Set of platform as a service (PaaS) products that use OS-level virtualization to
 deliver software in packages called containers.
 Most of the CKAN structura runs in docker containers.
 
-##DataStore
+## DataStore
 Repository for persistently storing and managing collections of data.
 
 ## FireStore

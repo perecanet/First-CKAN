@@ -1,6 +1,6 @@
 # CKAN CONCEPTS
 
-## Structure (GNav)
+## Structure
 
 ```
 - Databases:
